@@ -12,6 +12,8 @@ jdjdjdj
     name[strlen(name)-1] = '\0'; /* remove the newline at the end */
 
     printf("Helloo %s!\n", name);
-    hf
+    hfcc
+fbdkjjdfbn
+flbdkl
     
 }
